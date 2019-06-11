@@ -1,0 +1,22 @@
+body {
+	background: #f5f5f5;
+	color: #4e4e4e;
+}
+
+h1 {
+	color: #1e1e1e;
+}
+
+a {
+	color: #1e1e1e;
+}
+
+a:hover {
+	color: $0078ff;
+	text-decoration: none;
+}
+
+nav {
+	background: #fff;
+	height: 50px;
+}
